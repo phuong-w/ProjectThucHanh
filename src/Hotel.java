@@ -1,0 +1,6 @@
+/**
+ * Hotel
+ */
+public class Hotel {
+
+}
